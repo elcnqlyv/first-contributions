@@ -6,7 +6,7 @@
 
 Bu layihə yeni başlayanların ilk töhfələrini vermə yollarını sadələşdirmək və istiqamətləndirmək məqsədini daşıyır. İlk töhfənizi vermək istəyirsinizsə, aşağıdakı addımları izləyin.
 
-_Əgər komanda sətri ilə rahat deyilsinizsə, [burada GUI alətlərindən istifadə edən təlimatlar tapa bilərsiniz.](#Digər-alətlərin-istifadəsi-üçün-təlimlər)_
+_Əgər komanda sətri ilə işləmək sizin üçün rahat deyilsə, [burada GUI alətlərindən istifadə etmək üçün təlimatlar tapa bilərsiniz.](#Digər-alətlərin-istifadəsi-üçün-təlimlər)_
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="bu anbarı çatal et" />
 
@@ -21,7 +21,7 @@ Bu hesabınızda deponun bir kopyasını yaradacaqdır.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="bu anbarı surətini çıxar" />
 
-İndi çəngəlli deponu kompüterinizə klonlaşdırın. GitHub hesabınıza daxil olun, çəngəlli deponu açın, kod düyməsinə vurun və sonra _copy to clipboard_ simgəsinə klikləyin.
+İndi çəngəllənmiş deponu kompüterinizə klonlaşdırın. GitHub hesabınıza daxil olun, çəngəllənmiş deponu açın, kod düyməsinə vurun və sonra _copy to clipboard_ simgəsinə klikləyin.
 
 Daha sonra terminalı açın və aşağıdakı git komandasını daxil edin:
 
@@ -71,11 +71,11 @@ git add Contributors.md
 
 İndi `git commit` əmrindən istifadə edərək bu dəyişiklikləri edin:
 
-adınızla `<your-name>` ilə əvəz olunsun.
+adınız `<your-name>` ilə əvəz olunsun.
 
-## Dəyişiklikləri GitHub-a itələyin (push)
+## Dəyişiklikləri GitHub-a yükləyin (itələyin (push))
 
-Dəyişikliklərinizi "git push" əmrindən istifadə edərək itələyin:
+Dəyişikliklərinizi "git push" əmrindən istifadə edərək yükləyin:
 
 
 ```bash
@@ -108,7 +108,7 @@ Daha çox təcrübə istəyirsinizsə, yoxlayın [kod töhfələri](https://gith
 
 ### [Əlavə Məlumat](additional-material/git_workflow_scenarios/additional-material.md)
 
-## Digər alətlərin istifadəsi üçün təlimlər
+## Digər alətlərin istifadəsi üçün təlimatlar
 
 | <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
 | --- | --- | --- | --- | --- | --- |
